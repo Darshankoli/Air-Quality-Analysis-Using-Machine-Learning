@@ -1,0 +1,5 @@
+6 months of air quality data for major Indian cities.
+This dataset is ideal for training ML models on long-term air 
+quality trends and deploying predictive analytics 
+
+for pollution forecasting.
